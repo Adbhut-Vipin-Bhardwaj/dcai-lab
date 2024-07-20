@@ -1,13 +1,9 @@
-# Lab assignments for Introduction to Data-Centric AI
+# Fork of [Lab assignments for Introduction to Data-Centric AI](https://github.com/dcai-course/dcai-lab)
 
-This repository contains the lab assignments for the [Introduction to
+This repository contains my solutions for the lab assignments for the [Introduction to
 Data-Centric AI](https://dcai.csail.mit.edu/) class.
 
-Contributions are most welcome! If you have ideas for improving the labs,
-please open an issue or submit a pull request.
-
-If you're looking for the 2023 version of the labs, check out the [2023
-branch](https://github.com/dcai-course/dcai-lab/tree/2023).
+# Details from original README
 
 ## [Lab 1: Data-Centric AI vs. Model-Centric AI][lab-1]
 
